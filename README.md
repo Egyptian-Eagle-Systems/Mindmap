@@ -1,7 +1,5 @@
 # Hacking Articles- Cyber Security Mindmap
 
-🧠 Ignitetechnologies Mindmap
-
 A comprehensive collection of cybersecurity mind maps covering technologies, tools, methodologies, courses, and certifications used in the security industry.
 
 This repository organizes complex cybersecurity concepts into visual tree structures, making it easier for learners and professionals to quickly understand relationships between tools, techniques, and domains in cybersecurity.
